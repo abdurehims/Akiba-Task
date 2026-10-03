@@ -36,3 +36,5 @@ desktop.ini
 build/
 dist/
 *.egg-info/
+
+.allai/
