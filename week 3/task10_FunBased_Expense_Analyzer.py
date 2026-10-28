@@ -57,6 +57,6 @@ def spending_report():
     above_threshold()
 
 
-# Test
+
 add_expense("Coffee", "Food", 50)
 spending_report()
