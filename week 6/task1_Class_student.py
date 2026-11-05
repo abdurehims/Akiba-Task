@@ -22,8 +22,6 @@ student3 = Student("Mubarek", "SE003", "Computer Science")
 student4 = Student("Kedir", "IT001", "Information Technology")
 
 
-
-
 print("===== Student 1 =====")
 student1.display_info()
 student1.introduce()
